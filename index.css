@@ -1,3 +1,8 @@
 body {
 	background-image: url("Images/Background.jpg");
 }
+h1 {
+	background-image: url("Images/header background.png");
+	background-repeat: no-repeat;
+	color: #ff0000;
+}
